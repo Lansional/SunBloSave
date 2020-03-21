@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574216372193",
+    "firebase_url": "https://school-project-13d2c.firebaseio.com",
+    "project_id": "school-project-13d2c",
+    "storage_bucket": "school-project-13d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574216372193:android:f2ecf6267a95458a6a9ca0",
+        "android_client_info": {
+          "package_name": "com.example.sunblosave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574216372193-caoc8n3fqh161043u4397ph8dpbpdm3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunblosave",
+            "certificate_hash": "273935f9c59a379b055e8e526d5e9b45c4fa0e14"
+          }
+        },
+        {
+          "client_id": "574216372193-ndnjinuhqga59cogpacde6dvgv6t2bb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNc2n6lXgVKeeL45WsZVMW1PJJvtZTTmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574216372193-ndnjinuhqga59cogpacde6dvgv6t2bb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
